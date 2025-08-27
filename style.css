@@ -36,7 +36,9 @@ width: 30px;
 
 }
 
-
+h5{
+    text-align: left;
+}
 
 .card{
     background-color: #5a5050;
@@ -47,9 +49,6 @@ width: 30px;
     padding: 10px;
 }
 
-h5{
-    text-align: left;
-}
 .card-a{
     grid-column: 1/9;
 }
