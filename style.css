@@ -27,7 +27,7 @@ width: 30px;
 }
 
 
-.container{
+.container{ /* https://www.youtube.com/watch?v=ZoZ5befGDqc */
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 30px 1fr 1fr 30px; /*You can write it like this = repeat(8, 1fr) but then they are ALL spaced equally */
     grid-template-rows: 1fr 1fr 30px 1fr 1fr;
@@ -39,7 +39,7 @@ width: 30px;
 
 
 .card{
-    background-color: #807474;
+    background-color: #5a5050;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.397);
     border-radius: 10px;
 
